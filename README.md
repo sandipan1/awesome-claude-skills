@@ -68,6 +68,8 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
+- **[Octav-Labs/octav-api-skill](https://github.com/Octav-Labs/octav-api-skill)** - Claude skill for multi-chain crypto portfolio tracking. Query wallet holdings, DeFi positions, transaction history, and token analytics via natural language.
+
 
 
 
