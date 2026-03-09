@@ -66,7 +66,9 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction skill with MCP server, REST API, and 20 extraction tools for profiles, tweets, followers, and more. *By [@Xquik-dev](https://github.com/Xquik-dev)*
+
+Submit a PR to add your skill.
 
 
 
