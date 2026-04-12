@@ -67,11 +67,7 @@ Skills for working with complex file formats:
 ## Community Skills
 
 More community skills coming soon! Submit a PR to add your skill.
-
-
-
-
-
+- **[toprank](https://github.com/nowork-studio/toprank)** - Open-source SEO and Google Ads skills for Claude Code. Connects Google Search Console, PageSpeed Insights, and Google Ads API to automate meta tag rewrites, schema markup generation, keyword bid adjustments, and content pushes to WordPress/Strapi/Contentful/Ghost.
 
 
 ## Contributing
