@@ -68,6 +68,8 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
+- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one fullstack Claude Code skill: 46 modes, 23 sub-agents, 6-layer security (OWASP+), 10 hooks, 8 languages, ~55% token savings. One /aura command builds, fixes, reviews, deploys.
+
 
 
 
