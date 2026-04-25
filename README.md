@@ -66,6 +66,15 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
+### Discovery & Catalogs
+
+- **[Claude Code Skills Registry](https://claude-skills.bdnhost.net/)** — Auto-discovered, daily-updated catalog of 250+ verified Claude Code skills. Aggregates skills from 9 sources (anthropics/skills, obra/superpowers, jeffallan/claude-skills, akin-ozer/cc-devops-skills + GitHub code search). Filter by 15 categories, source, and language (English / Hebrew / Chinese). No tracking, no signup, no ads.
+
+### Specialized Domain Skills
+
+- **[lahav433](https://github.com/bdnhost/claude-skills/tree/main/skills/lahav433)** — FBI-grade OSINT + Intelligence Cycle methodology for autonomous newsrooms. Forensic accounting (Benford's Law, procurement compliance), pre-publication legal review, triple-source verification. Activates on "investigate", "audit tenders", "follow the money".
+- **[journalism-legal-il](https://github.com/bdnhost/claude-skills/tree/main/skills/journalism-legal-il)** — Israeli press-law advisor: defamation, privacy, FOIA, source protection. Produces safe-to-publish edits with change explanations. Hebrew + English.
+
 More community skills coming soon! Submit a PR to add your skill.
 
 
