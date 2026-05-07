@@ -66,6 +66,8 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
+- **[mock-hunter](https://github.com/CodeShuX/mockhunter)** - 5-phase Playwright skill that audits live web pages for fake/mock data; classifies every visible value as REAL/MOCK/LLM/HARDCODED/BROKEN/UNKNOWN; targets vibe-coded apps (Lovable, Bolt, v0, Replit, AI Studio)
+
 More community skills coming soon! Submit a PR to add your skill.
 
 
