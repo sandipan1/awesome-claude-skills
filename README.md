@@ -66,6 +66,10 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
+### Developer Tools
+
+- **[tokenwise](https://github.com/CodeShuX/tokenwise)** — Measurement-driven model router for Claude Code. Routes Haiku/Sonnet for grunt work, reserves Opus for synthesis, logs every routed task with real $ saved, and A/B tests cheaper tiers before you trust them. MIT licensed. Zero telemetry.
+
 More community skills coming soon! Submit a PR to add your skill.
 
 
