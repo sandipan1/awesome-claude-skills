@@ -68,6 +68,8 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
+- **[andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills)** - Karpathy-inspired coding-agent guidelines packaged as an installable skill for Claude Code, Codex, Cursor, Gemini, OpenCode, OpenClaw, AGENTS.md, and more.
+
 
 
 
