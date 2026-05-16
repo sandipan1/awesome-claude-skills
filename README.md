@@ -68,6 +68,8 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
+- [Sequenzy Email Marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) - Operate Sequenzy email marketing and transactional/product email workflows from AI agents.
+
 
 
 
