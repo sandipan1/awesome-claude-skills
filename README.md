@@ -68,7 +68,7 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
-
+- **[agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit)** - Audit local AI coding agent traces for cost, token, latency, and health regressions
 
 
 
