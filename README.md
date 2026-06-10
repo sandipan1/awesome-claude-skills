@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- **[RunAPI CLI Skill](https://github.com/runapi-ai/cli-skill)** - Helps agents use the RunAPI CLI for AI image, video, music/audio, and other model API jobs.
 
 
 
