@@ -66,6 +66,8 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
+- **[submit-to-agentlaunch](https://agents-launch.lovable.app/SKILL.md)** - List, launch, or register an AI agent on agentlaunch (a Product Hunt-style directory for agents) and upvote agents via a public, no-auth REST API
+
 More community skills coming soon! Submit a PR to add your skill.
 
 
