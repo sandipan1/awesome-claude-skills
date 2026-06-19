@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars, MIT). Includes skills for [site analysis & content](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads audits & bid management](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads performance](https://github.com/nowork-studio/NotFair/tree/main/meta-ads). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 
 
