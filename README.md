@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- **[ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow)** - Reconstruct how a PR, feature, report, or shipped artifact was produced from local ax sessions, commits, skill usage, and subagent activity
 
 
 
