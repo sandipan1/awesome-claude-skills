@@ -74,6 +74,7 @@ More community skills coming soon! Submit a PR to add your skill.
 
 
 
+- [LinkedIn Skills](https://github.com/Linked-API/linkedin-skills) - LinkedIn automation skills for profile and company research, messaging, engagement, posting, and managed network growth.
 ## Contributing
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
