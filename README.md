@@ -68,6 +68,8 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
+- **[routerbase-agent-skills](https://github.com/zenlee123/routerbase-agent-skills)** - Agent skills for using [routerbase](https://routerbase.com/) as an OpenAI-compatible gateway for API integration, model routing, and media generation workflows.
+
 
 
 
