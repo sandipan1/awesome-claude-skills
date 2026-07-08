@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- **[tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill)** - Guides Claude through local-first agent memory recall, evidence capture, audit, forgetting, and consolidation.
 
 
 
