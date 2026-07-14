@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- **[Ontoly](https://github.com/0xsarwagya/ontoly)** - Deterministic Software Graph, MCP server, and Agent Skills for architecture, dependency, route, configuration, and impact analysis.
 
 
 
