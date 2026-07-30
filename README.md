@@ -68,6 +68,8 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
+- [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents (SEO, copywriting, cold email, pricing, CRO, ads, analytics). Install: `npx skills add coreyhaines31/marketingskills`.
+
 
 
 
