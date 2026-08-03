@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- **[suede-code](https://github.com/JasonColapietro/suede-creator-skills/tree/main/skills/suede-code)** - Review code and return evidence-backed findings with an A-F ship grade across correctness, security, data, UX, tests, and deployment readiness
 
 
 
