@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- [decision-doc](https://github.com/tushaarmehtaa/tushar-skills/tree/main/decision-doc) - Create or audit decision records with options, evidence, tradeoffs, owners, and review triggers.
 
 
 
