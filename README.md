@@ -66,6 +66,8 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** - Claude Code skills for local-first video composition and editing through an MIT-licensed CLI and MCP toolkit.
+
 More community skills coming soon! Submit a PR to add your skill.
 
 
