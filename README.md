@@ -66,6 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness)** - Developer-alpha CLI skill for discovering local skills, PKM notes, encrypted knowledge and opaque credential capabilities.
 More community skills coming soon! Submit a PR to add your skill.
 
 
