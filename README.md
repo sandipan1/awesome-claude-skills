@@ -66,6 +66,8 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
+- **[Shipvela publish](https://github.com/stefanautomateed/shipvela-codex/tree/main/plugins/shipvela/skills/publish)** - Publish a website through OAuth MCP, review the target, confirm publishing as the owner, and check the live deployment. Requires a Shipvela account; Hobby includes 3 projects and 20 monthly publishes.
+
 More community skills coming soon! Submit a PR to add your skill.
 
 
