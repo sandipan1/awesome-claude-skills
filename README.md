@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- [Invokely statistics](https://github.com/estevecastells/awesome-copilot/blob/9d96d33228f753cf26d7da5115598da2c19ad900/skills/invokely-statistics/SKILL.md) - Query official statistics through the separately configured [Invokely MCP](https://invokely.ai/docs), preserving source citations, periods, units, and comparability notes.
 
 
 
