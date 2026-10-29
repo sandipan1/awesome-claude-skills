@@ -68,6 +68,8 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
+- **[SPECTER](https://github.com/YannisKiefer/harvey-specter)** - Prepares negotiations and difficult-conversation drafts with evidence checks and clear boundaries.
+
 
 
 
