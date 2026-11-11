@@ -68,6 +68,10 @@ Skills for working with complex file formats:
 
 More community skills coming soon! Submit a PR to add your skill.
 
+### Creative & Media
+
+- **[framezero](https://github.com/matheusvibecoder-vibecodas/framezero/tree/main/skills/framezero)** - Create vertical app promo videos (TikTok, Reels, Shorts) from deterministic HTML scenes, with a stills-first review loop, a code-generated synced soundtrack, and 1080p/4K60 rendering via Playwright and ffmpeg
+
 
 
 
