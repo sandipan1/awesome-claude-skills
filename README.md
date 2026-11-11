@@ -66,7 +66,7 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- [datacircle](https://datacircle.dev/SKILL.md) - Find the best GTM APIs. Give your AI our skill file to query every API plan on Datacircle: https://datacircle.dev
 
 
 
