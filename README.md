@@ -66,7 +66,8 @@ Skills for working with complex file formats:
 
 ## Community Skills
 
-More community skills coming soon! Submit a PR to add your skill.
+- **[i2v-models](https://github.com/i2v-ai/i2v-skills/tree/main/i2v-models)** - Generate images and videos across 12 image and 16 video models, with a USD cost estimate before each paid task
+- **[i2v-integrate](https://github.com/i2v-ai/i2v-skills/tree/main/i2v-integrate)** - Wire the i2v.ai media API or MCP server into an application or agent, including async task polling and webhooks
 
 
 
